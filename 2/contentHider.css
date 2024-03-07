@@ -1,0 +1,6 @@
+.slide * {
+    opacity: 0;
+}
+.header *{
+    opacity:1;
+}
